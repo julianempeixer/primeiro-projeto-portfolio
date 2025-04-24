@@ -4,9 +4,7 @@ Fico muito feliz em compartilhar com vocês meu primeiro projeto concluído, des
 
 ![img-primeiro-projeto-portfolio](https://github.com/user-attachments/assets/c913c9a4-965d-4d99-97c7-bf6b75387012)
 
-Ferramentas utilizadas:
-HTML
-CSS
-Flex-box
+Ferramentas utilizadas: HTML, CSS e Flex-box.
 
+Veja o projeto completo: https://primeiro-projeto-portfolio-black.vercel.app/index.html
 LinkedIn: https://www.linkedin.com/in/julianepeixer/
