@@ -103,7 +103,7 @@ body {
     justify-content: space-between;
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--hoover-color);
 }
 
